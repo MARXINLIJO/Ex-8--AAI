@@ -42,7 +42,7 @@ except Exception as e:
 
 ```
 ##  Output:
+![image](https://github.com/user-attachments/assets/adb83ffe-0f7b-4db1-8ba4-aa86291e8cb3)
 
-![OP](op.jpg)
 ##  Result:
 Thus the python program for Speech Recognition is implemented successfully.
